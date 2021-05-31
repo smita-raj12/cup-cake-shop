@@ -1,0 +1,33 @@
+.flashy{
+  color: red;
+  font-style: italic;
+  text-align: center;
+}
+.img-class{
+  width: 40%;
+  height: fit-content;
+  float: left;
+}
+.p-class{
+  font-size: 6mm;
+  width: 80%;
+  padding-left: 10mm;
+}
+.h2-class{
+  padding-left: 10mm;
+  color: brown;
+}
+li{
+  font-size: larger;
+}
+ul{
+  padding-left: 10mm;
+}
+.h3-class{
+  float: inline-end;
+  color: brown;
+}
+.img2{
+  width: 20%;
+  float: right;
+}
